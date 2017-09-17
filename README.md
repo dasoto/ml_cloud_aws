@@ -1,1 +1,3 @@
-# ml_cloud_aws
+# Simple ML Model on AWS lambda Service
+
+A detailed description will be provided later.
