@@ -39,8 +39,8 @@ Pygments==2.15.0
 python-dateutil==2.6.1
 python-slugify==1.2.4
 pytz==2017.2
+requests==2.31.0
 PyYAML==5.4
-requests==2.20.0
 rsa==4.7
 s3transfer==0.1.11
 scandir==1.5
